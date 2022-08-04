@@ -1,0 +1,27 @@
+Class
+It should start with the uppercase letter.
+It should be a noun such as Color, Button, System, Thread, etc.
+Use appropriate words, instead of acronyms.
+
+public class Employee
+{
+//code snippet
+}
+
+Interface
+
+It should start with the uppercase letter.
+It should be an adjective such as Runnable, Remote, ActionListener.
+Use appropriate words, instead of acronyms.
+interface Printable{
+//code snippet
+}
+
+Method
+it should start with lowercase letter
+
+class Employee {
+    int employId;
+ void drawTriangle(){
+ }
+}
