@@ -11,12 +11,12 @@ public class Average {
         this.thirdNo = thirdNo;
     }
 
-    void calculteAverage(){
+    void calculateAverage(){
         System.out.println("Average of three numbers is : "+(firstNo+secondNo+thirdNo)/3);
     }
 }
-class Answer3{
+class Answer3 {
     public static void main(String[] args) {
-        new Average(3,6,9).calculteAverage();
+        new Average(3, 6, 9).calculateAverage();
     }
 }
